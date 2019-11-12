@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+//变量
+@import "var/variable.scss";
+
+@import "base/reset";
+@import "base/base";
+
+//component
+@import "./component/style.scss";
+@import "./component/mouse.scss";
+@import "./component/about.scss";
+// @import "components/dayTime.scss";
+// @import "components/storeRation.scss";
+// @import "components/piechart.scss";
+// @import "components/table.scss";
+// @import "components/list.scss";
+// //sidemenu
+// @import "sideMenu/sideMenu.scss";
