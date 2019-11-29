@@ -113,3 +113,6 @@ $("#logo").on('click',function(){
 $("#aboutUs").on('click',function(){
   lastItem()
 })
+$("#beian").click(function(event) {
+ window.open("http://www.beian.miit.gov.cn/publish/query/indexFirst.action ");   
+});
